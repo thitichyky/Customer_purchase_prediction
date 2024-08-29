@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Customer Purchase Prediction</title>
+    <script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/4.42.0/gradio.js"
+    ></script>
+</head>
+<body>
+    <gradio-app src="https://thitichaya-customer-purchase-prediction.hf.space"></gradio-app>
+</body>
+</html>
